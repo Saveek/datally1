@@ -83,11 +83,12 @@ const AuthForm = ({ type }: { type: string }) => {
     }
 
   return (
+    <p>datally is finance app</p>
     <section className="auth-form">
       <header className='flex flex-col gap-5 md:gap-8'>
           <Link href="/" className="cursor-pointer flex items-center gap-1">
             <Image 
-              src="/icons/logo.svg"
+              src="public\icons\D.png"
               width={34}
               height={34}
               alt="Horizon logo"
