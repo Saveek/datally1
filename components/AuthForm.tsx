@@ -85,7 +85,7 @@ const AuthForm = ({ type }: { type: string }) => {
   return (
 
     <section className="auth-form">
-      <p>Datally is a finance app </p>
+    
       
       </>
     )}
